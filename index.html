@@ -7,18 +7,10 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         async function loadMarkdown() {
-    const response = await fetch('index.md'); // Ersetze mit deiner Datei-URL
-    const markdown = await response.text();
-    
-    // Markdown in HTML umwandeln
-    const htmlContent = marked.parse(markdown);
-
-    // HTML in die Seite einfügen
-    document.getElementById('content').innerHTML = htmlContent;
-}
-
-// Aufruf der Funktion nach Laden der Seite
-document.addEventListener("DOMContentLoaded", loadMarkdown);
+            const response = await fetch('index.md'); 
+            document.getElementById('content').innerHTML = marked.parse(await response.text());
+        }
+        document.addEventListener("DOMContentLoaded", loadMarkdown);
 
     </script>
 </head>
