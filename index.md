@@ -1,16 +1,37 @@
-# 1. Kapitel
 
-Es ist abends in der Stabskompanie, die Soldaten haben Stubendienst. Konrad hat heute eine besondere Aufgabe: Sigmund Jähn, der Held aus Morgenröthe-Rautenkranz, flog als erster Deutscher in den Weltraum und nun sollte eine Wandzeitung gestaltet werden. Das war eine wunderbare Gelegenheit dem Stress des Revierreinigens zu entgehen und so verzog man sich (er und zwei Unteroffiziere) ins Dienstzimmer des Politoffiziers. Dort gibt es den Schrank voller Propagandamist, den Konrad monatlich mit 50 Mark vollstopfen musste. Weil der Schrank schon überquoll, aber das Geld wegmusste, kaufte er nur noch teure, raumsparende Sachen eine. Der kleine, privatgeführte Schreibwarenladen in Stendal freute ich sich ach immer schon, wenn der Gefreite in der Einstrichkeinstrichuniform mit dem P3-Jeep vor dem Laden hielt. Eine Win-Win-Situation: er bekam die völlig überteuerten Scribent, Kurvenschablonen und Typofix-Abreibe-Bögen los und der Schrank des Polit zerbarst trotz Warenflut nicht. Auf die Idee, den Kram einfach wegzuschmeißen – ja das war dann doch zu heikel, schon wegen Volkseigentum. 
+	
+##Pakt von Umar:
+
+Im Namen Allahs, des Gnädigen und Barmherzigen. Dies ist ein Dokument an den Diener Allahs `Umar, den Führer der Gläubigen, von den Christen dieser und jener Stadt. Als ihr (Muslime) zu uns kamt, habt ihr um Sicherheit für uns, unsere Kinder, unser Eigentum und die Anhänger unserer Religion gebeten. Ihr habt uns folgende Bedingungen gestellt:
+
+* Wir werden in unseren Gebieten weder ein Kloster, eine Kirche noch ein Heiligtum für einen Mönch errichten, noch eine Gebetsstätte wiederherstellen, die der Wiederherstellung bedarf, noch irgendeine davon zum Zwecke der Feindseligkeit gegen Muslime nutzen.
+
+* Jene Muslime, die als Gäste kommen, werden drei Tage lang Unterkunft und Verpflegung genießen.
+
+* Wir werden keinen Spion gegen Muslime in unsere Kirchen und Häuser lassen oder Betrug [oder Verrat] gegen Muslime verbergen.
+
+* Wir werden unseren Kindern nicht den Koran beibringen, den Schirk (Polytheismus) nicht publik machen, niemanden zum Schirk einladen, oder unsere Mitmenschen davon abhalten, den Islam anzunehmen, wenn sie dies möchten.
+
+* Wir werden Muslime respektieren, uns von unseren Plätzen entfernen, wenn sie sich darauf setzen möchten.
+
+* Wir werden ihre Kleidung, Mützen, Turbane, Sandalen, Frisuren, Sprache, Spitznamen und Titel nicht imitieren,
+oder auf Sätteln reiten, Schwerter über die Schultern hängen, Waffen jeglicher Art sammeln oder diese Waffen tragen.
+
+* Wir werden unsere Briefmarken nicht auf Arabisch verschlüsseln oder Alkohol verkaufen.
+
+* Wir werden uns die Haare vorne schneiden lassen, unsere traditionelle Kleidung tragen, wo immer wir sind, Gürtel um die Taille tragen,
+keine Kreuze an der Außenseite unserer Kirchen aufstellen, und sie und unsere Bücher nicht öffentlich auf muslimischen Straßen und Märkten vorführen.
+
+* Wir werden die Glocken in unseren Kirchen nicht läuten, außer diskret,
+Oder unsere Stimmen erheben, wenn wir in unseren Kirchen in Gegenwart von Muslimen unsere heiligen Bücher rezitieren,
+Noch werden wir unsere Stimmen [zum Gebet] bei unseren Beerdigungen erheben,
+Oder bei Trauerzügen auf den Straßen der Muslime oder ihren Märkten Fackeln anzünden.
+
+* Wir werden unsere Toten nicht neben muslimischen Toten begraben, Oder Diener kaufen, die von Muslimen gefangen genommen wurden.
 
 
-So ein Kompanieschreiber hat ja nun nicht wirklich viel zu tun: morgens Kaffee für die Offiziere kochen, dann Stärkemeldung im Stab abgeben und der Küche die Essen melden. Das wars schon. Einmal in der Woche für er mit seinem Fahrer in die Stadt, um die gebrauchte Kompaniebettwäsche in so eine Hinterhofwäscherei abzugeben. Das war irgendwie eine schambesetzte Angelegenheit – sagen wir einmal so: nach dem Waschen waren die Bettlaken leichter. Konrad stopfte also in der B/A-Kammer die vollgewichste Wäsche in den Sack und oben drauf dann ein frisches Laken. Wenn es dann zum Vorzählen der Dreckwäsche vor den Augen der Jungmaiden in knappen Dederonkitteln kam, legte er als Fundament das saubere Tuch und dann darauf in rascher Folge des Rest. Hätte man Zelte bauen können …
 
-Im Zimmer von Werner K. stand neben dem Schrank mit den Bürosachen eine Dominante, das ist ein großes Röhrenradio, es war wohl sicher privat mitgebracht. Die Nutzung von Radios musste beantragt werden und die Geräte mussten „gekennzeichnet“ sein. Was ist das nun wieder? Mit Heftpflasterstreifchen oder mit einem Filzstift mussten die Stellen auf der UKW-Skale markiert sein, wo DDR-Sender waren. Einfach, daß man sich nicht rausreden kann. Das Hören von Westsendern galt selbstverständlich als Kontaktaufnahme mit dem Klassenfeind und irgend eine, sicherlich hohe Strafe stand darauf. Die Dominante des Genossen Hauptmann und Schalke-04-Fans (ja unter der Schreibtischplatte lag so ein Starschnitt) war selbstverständlich nicht mit solchen Markierungen versehen – ihm wurde wohl ein fester Klassenstandpunkt trotz seiner Sympathie mit einem Fussballverein aus dem verhassten Westen unterstellt. Der Oberfeldwebel schaltet die Kiste ein, flotte Musik. Ok. Nun ran an den Quatsch. Konrad und die Uffze denken gerade darüber nach, wie man wohl würdig diesen deutschen Kosmonauten ehren kann. Es ist um zehn, die Tür geht auf und der Offizier vom Dienst, so eine Oberstleutnant, kommt mit seiner Entourage ins Büro. Konrad springt zum Radio und schaltet aus. Er nun: „Genosse Gefreiter, schalten Sie ruhig wieder ein!“. Kaum sind die Röhren wieder warm plärrt's aus den drei Lautsprechern: „Hier ist RIAS Berlin. Eine freie Stimme der freien Welt“. Totenstille. Brüller. Jeder der drei musste sofort eine Stellungsnahme schreiben – klar, da kam nichts mehr. Wer will schon dem Polit solche Subordinationen unterstellen? Obwohl: es gab unglaubliches Gift unter den Genossen. Die meisten waren hochdepressiv oder auch Alkoholiker. 
-
-
-
- 
-
-
-
-
+* Wir werden keinen Muslim schlagen oder gerichtlich verfolgen.
+* Esel - Pferde
+* Kleidungskennzeichnung
+* Zeugenkraft
