@@ -5,6 +5,8 @@ Es ist abends in der Stabskompanie, die Soldaten haben Stubendienst. Konrad hat 
 
 So ein Kompanieschreiber hat ja nun nicht wirklich viel zu tun: morgens Kaffee für die Offiziere kochen, dann Stärkemeldung im Stab abgeben und der Küche die Essen melden. Das wars schon. Einmal in der Woche für er mit seinem Fahrer in die Stadt, um die gebrauchte Kompaniebettwäsche in so eine Hinterhofwäscherei abzugeben. Das war irgendwie eine schambesetzte Angelegenheit – sagen wir einmal so: nach dem Waschen waren die Bettlaken leichter. Konrad stopfte also in der B/A-Kammer die vollgewichste Wäsche in den Sack und oben drauf dann ein frisches Laken. Wenn es dann zum Vorzählen der Dreckwäsche vor den Augen der Jungmaiden in knappen Dederonkitteln kam, legte er als Fundament das saubere Tuch und dann darauf in rascher Folge des Rest. Hätte man Zelte bauen können …
 
-Konrad und die Uffze denken gerade darüber nach, wie man wohl würdig diesen deutschen Kosmonauten ehfren kann.
+Im Zimmer von Werner K. stand neben dem Schrank mit den Bürosachen eine Dominante, das ist ein großes Röhrenradio, es war wohl sicher privat. 
+
+Konrad und die Uffze denken gerade darüber nach, wie man wohl würdig diesen deutschen Kosmonauten ehren kann. 
 
 
