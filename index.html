@@ -5,9 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wie es fitschert ferona!</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
 
-    <style>* {font-family: 'Roboto',sans-serif;}</style>
+    <style>*  {font-family: "EB Garamond", serif;
+        font-size:4vw;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        line-height: 1.6em;
+        font-style: normal;}
+        h1 {font-weight:bold;font-size:9vw}
+        #content {max-width:90vw}
+        </style>
     <script>
         async function loadMarkdown() {
             const response = await fetch('index.md?' + new Date().getTime());
